@@ -2,9 +2,6 @@ import numpy as np
 from open_file import open_file
 import tensorflow.keras as ker
 
-
-
-
 file = open_file("A_Z Handwritten Data.csv")
 print("loading data...")
 (x_train,y_train),(x_test,y_test) = file.load_data()
