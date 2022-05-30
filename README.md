@@ -6,3 +6,5 @@
 5. `pandas 1.4.2`
 # Dataset
 A-Z Handwritten Alphabets: https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+
+![screenshot](/Screenshot.png)
